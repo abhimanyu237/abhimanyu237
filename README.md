@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Prajapati</h1>
 <h3 align="center">A student of Information Technology of MNNIT Allahabad</h3>
 
-- 🔭 I’m currently working on **Blud Buddy**
+- 🔭 I’m currently working on **Blood Buddy**
 
 - 🌱 I’m currently learning **Everything**
 
