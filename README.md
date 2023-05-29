@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu Prajapati</h1>
 <h3 align="center">A student of Information Technology of MNNIT Allahabad</h3>
 
-- 🔭 I’m currently working on **2 0 4 8 game**
+- 🔭 I’m currently working on **Blud Buddy**
 
-- 🌱 I’m currently learning **Android,Java**
+- 🌱 I’m currently learning **Everything**
 
 - 📫 How to reach me **abhimanyuprajapati237@gmail.com**
 
